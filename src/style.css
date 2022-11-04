@@ -1,0 +1,13 @@
+body {
+  background: #e4e0e0;
+  color: white;
+}
+
+#overlay {
+  top: 5%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  background-color: rgb(255, 255, 255);
+}
